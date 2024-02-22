@@ -347,6 +347,9 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
+# obj folder
+obj/
+
 # OpenCover UI analysis results
 OpenCover/
 

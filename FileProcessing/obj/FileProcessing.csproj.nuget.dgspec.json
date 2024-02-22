@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN211\\FileProcessing\\FileProcessing\\FileProcessing.csproj": {}
+    "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj": {}
   },
   "projects": {
-    "D:\\PRN211\\FileProcessing\\FileProcessing\\FileProcessing.csproj": {
+    "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN211\\FileProcessing\\FileProcessing\\FileProcessing.csproj",
+        "projectUniqueName": "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj",
         "projectName": "FileProcessing",
-        "projectPath": "D:\\PRN211\\FileProcessing\\FileProcessing\\FileProcessing.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN211\\FileProcessing\\FileProcessing\\obj\\",
+        "projectPath": "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
