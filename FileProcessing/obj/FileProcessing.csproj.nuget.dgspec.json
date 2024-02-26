@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj": {}
+    "D:\\Csharp\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj": {
+    "D:\\Csharp\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj",
+        "projectUniqueName": "D:\\Csharp\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj",
         "projectName": "FileProcessing",
-        "projectPath": "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj",
+        "projectPath": "D:\\Csharp\\ArknightsAPI\\File-Processing\\FileProcessing\\FileProcessing.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ArknightsAPI\\File-Processing\\FileProcessing\\obj\\",
+        "outputPath": "D:\\Csharp\\ArknightsAPI\\File-Processing\\FileProcessing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
