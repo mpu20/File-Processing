@@ -30,3 +30,7 @@ D:\PRN211\FileProcessing\FileProcessing\obj\Debug\net8.0\refint\FileProcessing.d
 D:\PRN211\FileProcessing\FileProcessing\obj\Debug\net8.0\FileProcessing.pdb
 D:\PRN211\FileProcessing\FileProcessing\obj\Debug\net8.0\FileProcessing.genruntimeconfig.cache
 D:\PRN211\FileProcessing\FileProcessing\obj\Debug\net8.0\ref\FileProcessing.dll
+D:\PRN211\FileProcessing\FileProcessing\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\PRN211\FileProcessing\FileProcessing\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\PRN211\FileProcessing\FileProcessing\bin\Debug\net8.0\AWSSDK.S3.dll
+D:\PRN211\FileProcessing\FileProcessing\obj\Debug\net8.0\FileProcessing.sourcelink.json

@@ -234,7 +234,7 @@ _pkginfo.txt
 !?*.[Cc]ache/
 
 # Others
-ClientBin/
+Client  /
 ~$*
 *~
 *.dbmdl
@@ -346,9 +346,6 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
-
-# obj folder
-obj/
 
 # OpenCover UI analysis results
 OpenCover/
